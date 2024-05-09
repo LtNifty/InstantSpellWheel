@@ -1,6 +1,6 @@
 ﻿using ThunderRoad;
 
-namespace InstantSpellWheel
+namespace InstantSpellWheelNomad
 {
     public class InstantSpellWheel : ThunderScript
     {
